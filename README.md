@@ -1,8 +1,6 @@
 # Amazon_video_user_analysis
 
-I'll draft an interactive and engaging README file based on the content of the file you shared. Here’s a sample README template for an "Amazon Prime User Data Analysis" project:
 
----
 
 # 📊 Amazon Prime User Data Analysis
 
